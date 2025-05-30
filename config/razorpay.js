@@ -5,9 +5,9 @@ const Razorpay = require("razorpay");
 // 	key_secret: process.env.RAZORPAY_SECRET,
 // });
 
-const RAZORPAY_KEY = "rzp_test_fUIZAI25WMgGwi"
+const RAZORPAY_KEY = ""
 
-const RAZORPAY_SECRET = "o7TBIxOogcPsNQa9pTzsAoYf"
+const RAZORPAY_SECRET = ""
 
 exports.instance = new Razorpay({
 	key_id: RAZORPAY_KEY,
